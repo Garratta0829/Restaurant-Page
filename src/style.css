@@ -30,3 +30,19 @@ nav {
 .button {
     background-color: beige;
 }
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    border: 2px solid white;
+    margin-bottom: 30px;
+}
+
+.about-content {
+    color: red;
+    width: 70vw;
+    font-size: 30px;
+}
